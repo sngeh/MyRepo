@@ -1,0 +1,4 @@
+#this a script to backup my log messages 
+echo "Backing up log messages..."
+
+cp /var/log/messages /home/sngeh/logs.bk
